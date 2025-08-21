@@ -33,7 +33,7 @@ export const HeroSection = () => {
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <div className="">
               <div className="flex space-x-4 justify-center">
-                <a href="www.linkedin.com/in/kingdev001" target="_blank">
+                <a href="https://www.linkedin.com/in/kingdev001" target="_blank">
                   <FaLinkedin className=" w-7 h-7 text-6xl " />
                 </a>
                 <a href="https://x.com/dev_king001" target="_blank">
@@ -43,7 +43,7 @@ export const HeroSection = () => {
                 <a href="https://github.com/mrking9961" target="_blank">
                   <FaGithub className=" w-7 h-7 text-6xl " />
                 </a>
-                <a href="wa.link/k9in1r" target="_blank">
+                <a href="https://wa.link/k9in1r" target="_blank">
                   <FaWhatsapp className=" w-7 h-7 text-6xl " />
                 </a>
               </div>
