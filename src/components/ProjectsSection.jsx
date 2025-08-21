@@ -7,7 +7,7 @@ const projects = [
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["HTML", "CSS"],
-    demoUrl: "mrking9961.github.io/bank/",
+    demoUrl: "https://mrking9961.github.io/bank/",
     githubUrl: "https://github.com/mrking9961/bank",
   },
   {
@@ -16,8 +16,8 @@ const projects = [
     description: "Empowering farmer, Growing dreams.",
     image: "/projects/project2.png",
     tags: ["React", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://teach-rise-hackathon.vercel.app/",
+    githubUrl: "https://github.com/mrking9961/TeachRise-Hackathon",
   },
   {
     id: 3,
