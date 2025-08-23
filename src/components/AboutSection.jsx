@@ -30,13 +30,13 @@ export const AboutSection = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a href="#contact" className="cosmic-button">
+              <a href="#HeroSection" className="cosmic-button">
                 {" "}
                 Contact Me
               </a>
 
               <a
-                href=""
+                href="https://docs.google.com/document/d/e/2PACX-1vTQAs2tIxw70-qL1Kj67mfzGxoaySiyFZeVl1CzumtTctSstAxr79Gm2C-7gOZEymx96nbhOYtPKknO/pub"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
